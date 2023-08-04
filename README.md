@@ -25,17 +25,17 @@
 
 <h1 align="center">Print do Resultado</h1>
 <div align="center">
-<img align="center" alt="Design do site" width="500" src="print-blog-codar.png">
+<img align="center" alt="Design do site" width="500" src="img/print-blog-codar.png">
 </div>
 
 <h2 align="center">Resultado no Desktop</h2>
 <div align="center">
-<img align="center" alt="Design do site no desktop" width="500" src="desktop.gif">
+<img align="center" alt="Design do site no desktop" width="500" src="img/desktop.gif">
 </div>
 
 <h2 align="center">Resultado no Mobile</h2>
 <div align="center">
-<img align="center" alt="Design do site no mobile" width="500" src="mobile.gif">
+<img align="center" alt="Design do site no mobile" width="500" src="img/mobile.gif">
 </div>
 
 
