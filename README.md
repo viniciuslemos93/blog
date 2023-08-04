@@ -23,14 +23,21 @@
 <p>Projeto de estudo prático desenvolvido durante o curso de PHP.</p>
 <p>Neste projeto pude praticar os conceitos de geração de elementos HTML dinamicamente utilizando estruturas de Arrays e laços de repetições com PHP.</p>
 
-<h1 align="center">Resultado</h1>
-<div align="center">
-<img align="center" alt="Design do site" width="500" src="gif.gif">
-</div>
-
+<h1 align="center">Print do Resultado</h1>
 <div align="center">
 <img align="center" alt="Design do site" width="500" src="print-blog-codar.png">
 </div>
+
+<h2 align="center">Resultado no Desktop</h2>
+<div align="center">
+<img align="center" alt="Design do site no desktop" width="500" src="desktop.gif">
+</div>
+
+<h2 align="center">Resultado no Mobile</h2>
+<div align="center">
+<img align="center" alt="Design do site no mobile" width="500" src="mobile.gif">
+</div>
+
 
 &#xa0;
 
@@ -45,7 +52,7 @@
 
 ## :hammer_and_wrench: Serviços
 * <a href="https://github.com/">GitHub</a>
-* <a href="https://www.apachefriends.org/pt_br/index.html">XAMPP Apache</a>
+* <a href="https://www.apachefriends.org/pt_br/index.html">XAMPP | Apache</a>
 
 &#xa0;
 
@@ -55,7 +62,7 @@
 
 📌 Iterações de estruturas de Arrays com laços de repetições;
 
-📌 Responsividade Mobile;
+📌 Responsividade utilizando Medias Queries;
 
 &#xa0;
 
