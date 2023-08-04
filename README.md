@@ -4,7 +4,7 @@
 <p align="center">
 <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
 <a href="#computer-tecnologias">Tecnologias</a> |
-<a href="#books-O-que-eu-aprendi">O que aprendi</a> &#xa0; 
+<a href="#books-o-que-eu-aprendi">O que aprendi</a> &#xa0; 
 </p>
 <p align="center">
 <a href="#hammer_and_wrench-serviços">Serviços</a> &#xa0; | &#xa0;
